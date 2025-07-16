@@ -3,8 +3,8 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "10583548"))
-API_HASH = environ.get("API_HASH", "c6825265a7ad87f7537c0b52f8b74a43")
+API_ID = int(environ.get("API_ID", "25188756"))
+API_HASH = environ.get("API_HASH", "68d26a3222c24ab0ee0babcabbc738c1")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8071034998:AAHMxcin0hLFcDuQX84LGa8qlaqWv5MFCEE")
 OWNER = int(environ.get("OWNER", "8190670074"))
 #WEBHOOK = True  # Don't change this
